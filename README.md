@@ -2,8 +2,7 @@
 The Mercator projection for anywhere
 
 ## Download
-[mercut.zip](https://github.com/MatumotoRyuma/mercut/blob/main/bin/mercut.zip)
-
+[mercut.zip](https://github.com/MatumotoRyuma/mercut/raw/main/bin/mercut.zip)
 ## What's this?
 The normarl Mercator projection creates a 2D map around the North and South Pole.
 So countries which are close to poles look big. For example:
